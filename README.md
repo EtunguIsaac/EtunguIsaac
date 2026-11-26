@@ -82,14 +82,6 @@ Developing interactive dashboards and analytical solutions to support sustainabi
 
 ---
 
-## GitHub Statistics 📈
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsaacEtungu&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacEtungu&layout=compact&theme=default)
-
----
-
 ## Get in Touch 📬
 
 - **GitHub:** [IsaacEtungu](https://github.com/IsaacEtungu)
