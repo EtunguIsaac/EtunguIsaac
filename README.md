@@ -4,7 +4,8 @@
 <p align="center">
   <img src="images/isaac-banner.png"
        alt="Isaac Etungu - Data Analytics Banner"
-       width="50%"/>
+       height = "50"
+       width="100%"/>
 </p>
 
 ## About Me 🚀
