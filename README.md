@@ -1,7 +1,11 @@
 
 # Hi there, I'm Isaac Etungu! 👋
 
-![Data Analytics Banner](your_banner_image_url_here)
+<p align="center">
+  <img src="images/isaac-banner.png"
+       alt="Isaac Etungu - Data Analytics Banner"
+       width="100%"/>
+</p>
 
 ## About Me 🚀
 
