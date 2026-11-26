@@ -4,7 +4,6 @@
 <p align="center">
   <img src="images/isaac-banner.png"
        alt="Isaac Etungu - Data Analytics Banner"
-       height = "100"
        width="100%"/>
 </p>
 
@@ -19,7 +18,6 @@ With a background in **Financial Engineering, Agricultural Finance, and Data Ana
 - 🌍 Based in: Kampala, Uganda 🇺🇬
 - 💻 Core interests: Data Science, Business Intelligence, Financial Analytics and Sustainability.
 - 📊 Analytics stack: Python, SQL, Excel, Power BI and Streamlit.
-- 📫 How to reach me: [LinkedIn](your_linkedin_url)
 - ⚡ Fun fact: I believe data is only valuable when it drives decisions and creates impact!
 
 ---
@@ -59,15 +57,7 @@ With a background in **Financial Engineering, Agricultural Finance, and Data Ana
 
 ## Featured Projects 💻
 
-### 1. IMPACT Progress Data Validator
-
-**Technology:** Python | Streamlit | Pandas | Excel
-
-An automated data validation application designed to improve the quality, consistency and reliability of sustainability survey data. It helps country teams identify data quality issues before analysis and reporting.
-
-[View Repository](https://github.com/IsaacEtungu/IMPACT-Progress)
-
-### 2. IMPACT Beyond Validation
+### 1. IMPACT Beyond Validation
 
 **Technology:** Python | Streamlit | Pandas
 
@@ -75,7 +65,7 @@ A data quality management application designed to streamline sustainability data
 
 [View Application](https://impact-beyond-validation.streamlit.app/)
 
-### 3. Sustainability Analytics & Business Intelligence
+### 2. Sustainability Analytics & Business Intelligence
 
 **Technology:** Power BI | Excel | Data Analytics
 
@@ -103,7 +93,6 @@ Developing interactive dashboards and analytical solutions to support sustainabi
 ## Get in Touch 📬
 
 - **GitHub:** [IsaacEtungu](https://github.com/IsaacEtungu)
-- **LinkedIn:** [Connect with me](your_linkedin_url)
 
 ---
 
